@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 08 23:01:42 2018
-
-@author: liuqi
-"""
-
-"""
 Spyder Editor
 """
 
